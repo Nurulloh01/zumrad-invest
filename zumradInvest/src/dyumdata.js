@@ -1,0 +1,80 @@
+export const Alldata = [
+    {
+      name: "Dekabr",
+      "Active Daromadlar": 4000,
+      "Ishchilar oyligi": 1398,
+      "Past daromadlar": 2210,
+    },
+    {
+      name: "Yanvar",
+      "Active Daromadlar": 7000,
+      "Ishchilar oyligi": 4800,
+      "Past daromadlar": 2290,
+    },
+    {
+      name: "Fevral",
+      "Active Daromadlar": 5780,
+      "Ishchilar oyligi": 3908,
+      "Past daromadlar": 2000,
+    },
+    {
+      name: "Mart",
+      "Active Daromadlar": 3890,
+      "Ishchilar oyligi": 4800,
+      "Past daromadlar": 2181,
+    },
+    {
+      name: "Aprel",
+      "Active Daromadlar": 2390,
+      "Ishchilar oyligi": 3800,
+      "Past daromadlar": 2500,
+    },
+    {
+      name: "May",
+      "Active Daromadlar": 3490,
+      "Ishchilar oyligi": 4300,
+      "Past daromadlar": 2100,
+    },
+    {
+      name: "Iyun",
+      "Active Daromadlar": 4000,
+      "Ishchilar oyligi": 2400,
+      "Past daromadlar": 2400,
+    },
+    {
+      name: "Iyul",
+      "Active Daromadlar": 3000,
+      "Ishchilar oyligi": 1398,
+      "Past daromadlar": 2210,
+    },
+    {
+      name: "Avgust",
+      "Active Daromadlar": 6000,
+      "Ishchilar oyligi": 7800,
+      "Past daromadlar": 2290,
+    },
+    {
+      name: "Sentabr",
+      "Active Daromadlar": 7780,
+      "Ishchilar oyligi": 3908,
+      "Past daromadlar": 2000,
+    },
+    {
+      name: "Oktabr",
+      "Active Daromadlar": 1890,
+      "Ishchilar oyligi": 4800,
+      "Past daromadlar": 2181,
+    },
+    {
+      name: "Noyabr",
+      "Active Daromadlar": 2390,
+      "Ishchilar oyligi": 3800,
+      "Past daromadlar": 2500,
+    },
+    {
+      name: "Dekabr",
+      "Active Daromadlar": 3490,
+      "Ishchilar oyligi": 4300,
+      "Past daromadlar": 2100,
+    },
+  ];
